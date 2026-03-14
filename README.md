@@ -16,10 +16,3 @@
 </table>
 </div>
 
-<div align = center>
-<details>
-<summary>Click Here for Commission Info</summary>
-  
-<table>
-  <td>
-<div align = center>
